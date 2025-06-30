@@ -1,0 +1,61 @@
+{
+  "company": {
+    "shortName": "SABOR & ARTE RESTAURANTE",
+    "fullName": "SABOR & ARTE RESTAURANTE E GASTRONOMIA LTDA",
+    "address": "RUA DAS FLORES, 123, CENTRO, SÃO PAULO - SP, CEP 01234-567",
+    "cnpj": "12.345.678/0001-90",
+    "phone": "(11) 98765-4321",
+    "email": "contato@saborarte.com.br",
+    "website": "saborarte.com.br"
+  },
+  "hero": {
+    "title": "Sabores únicos que despertam emoções",
+    "subtitle": "Bem-vindo ao {companyShortName}",
+    "description": "Restaurante com mais de 8 anos oferecendo experiências gastronômicas inesquecíveis no coração da cidade.",
+    "backgroundImage": "https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop"
+  },
+  "services": [
+    {
+      "title": "Culinária Artesanal",
+      "description": "Pratos preparados com ingredientes frescos e técnicas tradicionais, criando sabores únicos e autênticos.",
+      "icon": "heart"
+    },
+    {
+      "title": "Ambiente Acolhedor",
+      "description": "Espaço elegante e confortável, perfeito para jantares românticos, encontros familiares e celebrações especiais.",
+      "icon": "users"
+    },
+    {
+      "title": "Eventos Gastronômicos",
+      "description": "Organizamos eventos corporativos, aniversários e celebrações com cardápios personalizados e serviço impecável.",
+      "icon": "star"
+    },
+    {
+      "title": "Delivery Premium",
+      "description": "Entregamos a experiência gastronômica do nosso restaurante no conforto da sua casa com embalagens especiais.",
+      "icon": "zap"
+    }
+  ],
+  "about": {
+    "title": "Conheça o {companyShortName}",
+    "mission": "Somos um restaurante especializado em culinária artesanal, com mais de 8 anos de experiência no mercado gastronômico. Nossa equipe é dedicada a oferecer experiências culinárias únicas que despertam os sentidos e criam memórias inesquecíveis.",
+    "vision": "No {companyShortName}, acreditamos na excelência gastronômica e no atendimento personalizado. Trabalhamos para transformar cada refeição em uma experiência especial através de pratos cuidadosamente preparados e um ambiente acolhedor."
+  },
+  "testimonials": [
+    {
+      "text": "A comida é simplesmente espetacular! Cada prato é uma obra de arte. O atendimento é impecável e o ambiente é perfeito para ocasiões especiais.",
+      "author": "Maria Santos",
+      "rating": 5
+    },
+    {
+      "text": "Melhor restaurante da cidade! Os sabores são únicos e a apresentação dos pratos é incrível. Sempre volto e recomendo para todos os amigos.",
+      "author": "Roberto Silva",
+      "rating": 5
+    },
+    {
+      "text": "Experiência gastronômica inesquecível! Desde a entrada até a sobremesa, tudo perfeito. O chef realmente entende de culinária de qualidade.",
+      "author": "Ana Costa",
+      "rating": 5
+    }
+  ]
+}
